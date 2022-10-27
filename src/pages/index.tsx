@@ -61,9 +61,7 @@ export default function Home({title = "Test configuration"}: Props) {
           rel="noopener noreferrer"
         >
           Powered by
-          <span className="logo">
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
+          
         </a>
       </footer>
     </div>
